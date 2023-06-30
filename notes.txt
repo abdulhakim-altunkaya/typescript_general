@@ -1,0 +1,3 @@
+tsc                         compile the ts files inside the folder
+tsc example.ts              compiles the example.ts files
+tsc --watch                 updates js and ts files simultenaously

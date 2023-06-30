@@ -1,4 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const myword = "Hello world dude";
-console.log(myword);
+let firstName = "dude";
+let age = 88;
+console.log(firstName);
+console.log(age);
