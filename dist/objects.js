@@ -10,6 +10,10 @@ let employee2 = {
     lastName: "Ciziri",
     age: 25
 };
+//any keyword
+let employee3 = {
+    firstName: "Azad",
+};
 //This one you can say:
 console.log(employee2.firstName);
 //OR
