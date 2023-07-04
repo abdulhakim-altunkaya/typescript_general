@@ -9,6 +9,6 @@ switch (civilStatus) {
         console.log("get a woman");
         break;
     default:
-        console.log("no match");
+        console.log("get a woman");
         break;
 }
